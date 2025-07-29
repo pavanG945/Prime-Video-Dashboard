@@ -20,8 +20,8 @@ This project is a Power BI dashboard that analyzes Amazon Prime Video's content 
 
 ## 📁 Files Included
 
-- `prime-video-dashboard.pbix` – Power BI report file
-- `dashboard-preview.png` – Dashboard screenshot
+- `prime dashboard.pbix` – Power BI report file
+- `primevideo-dashboard.jpg` – Dashboard screenshot
 - `README.md` – Project overview and details
 
 ## 🖼 Dashboard Preview
