@@ -26,7 +26,7 @@ This project is a Power BI dashboard that analyzes Amazon Prime Video's content 
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](primevideo-dashboard.jpg)
 
 ## 🚀 How to Use
 
