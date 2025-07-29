@@ -31,7 +31,7 @@ This project is a Power BI dashboard that analyzes Amazon Prime Video's content 
 ## 🚀 How to Use
 
 1. Clone or download this repo
-2. Open `prime-video-dashboard.pbix` in Power BI Desktop
+2. Open `prime dashboard.pbix` in Power BI Desktop
 3. Interact with filters, visuals, and slicers
 
 ## 📌 About This Project
@@ -40,4 +40,3 @@ This is a portfolio project to showcase Power BI skills, including data modeling
 
 ---
 
-📬 Feedback and suggestions are welcome!
